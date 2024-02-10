@@ -8,8 +8,11 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20guys%20👋%20this%20is%20Benedit.R;I'm%20a%20Java%20Developer%20!!&font=Fira%20Code&center=true&width=550&height=45&color=rgb(165,200,38)&vCenter=true&pause=1000&size=27" /></a>
 </p>
 Hello!!! This is Benedit.R and i'm a FullStack Developer from KanyaKumari,India.I do a lot of Things, and  some of them you may even find Interesting.....✨
-
+<br>
 💬 Ask me about java,Spring, Spring Boot..
+
+♻I do enjoy working with Spring, SpringBoot and also frontend technologies like html, css, JavaScript. Take a look at my repositories - some of my best works are pinned here..
+
 
 📚 i'm currently learning js..
 
