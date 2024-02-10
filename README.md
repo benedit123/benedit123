@@ -29,7 +29,7 @@ Hello!!! This is Benedit.R and i'm a FullStack Developer from KanyaKumari,India.
 
 ---
 
-Connect with Me:
+<h3>Connect with Me:</h3>
 
 <a href="https://www.linkedin.com/in/benedit-r-287730259/"><img align="left" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="bene | LinkedIn" width="50px"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/code_to_activate_bene___r_/"><img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/198px-Instagram_logo_2016.svg.png?20210403190622" alt="bene | LinkedIn" width="50px"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <br>
