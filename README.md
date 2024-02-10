@@ -8,7 +8,7 @@ My Name is Benedit.R and i'm a FullStack Developer from KanyaKumari,India.I do a
 
 ---
 ### What Do i do?
-
+<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java"/>&nbsp;&nbsp;<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="springBoot"/>
 <!--
 **benedit123/benedit123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
