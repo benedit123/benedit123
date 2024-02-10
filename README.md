@@ -1,7 +1,10 @@
-<img src="/gallery.png" alt="banner" />
+<p align="center">
+  <img width="100%"  src="/gallery.png">
+</p>
 
-### Hi there 👋
-
+### Hi there Welcome to my Github Page👋
+My Name is Benedit.R and i'm a FullStack Developer from KanyaKumari,India.I do a lot of Things, and  some of them you may even find Interesting.....✨
+---
 <!--
 **benedit123/benedit123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
