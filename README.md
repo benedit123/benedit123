@@ -8,7 +8,9 @@ My Name is Benedit.R and i'm a FullStack Developer from KanyaKumari,India.I do a
 
 ---
 ### What Do i do?
-<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java"/>&nbsp;&nbsp;&nbsp;&nbsp;<img width="300" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="springBoot"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="hibernate"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="hibernate"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="js" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="100" alt="sql"/>
+<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java"/>&nbsp;&nbsp;&nbsp;&nbsp;<img width="50" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="springBoot"/>&nbsp;&nbsp;&nbsp;&nbsp;<img width="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;<img width="50" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="hibernate"/>&nbsp;&nbsp;&nbsp;&nbsp;<img width="50" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="hibernate"/>&nbsp;&nbsp;&nbsp;&nbsp;<img width="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" color="green" alt="js" />&nbsp;&nbsp;&nbsp;&nbsp;<img width="100" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"  alt="sql"/>
+
+---
 <!--
 **benedit123/benedit123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
